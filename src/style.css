@@ -1,0 +1,23 @@
+h1 {
+  font-family: arial;
+  font-size: 30pt;
+  color: white;
+  background-color: blueviolet;
+}
+
+div {
+  color: Indigo;
+  width: 140pt;
+  padding: 5pt;
+  margin: 10pt;
+  border: 1px solid black;
+  font-size: 16pt;
+}
+
+#div1 {
+  background-color: mintcream;
+}
+
+#div2 {
+  background-color: mistyrose;
+}
